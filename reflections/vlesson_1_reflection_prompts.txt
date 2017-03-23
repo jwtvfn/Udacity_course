@@ -20,7 +20,7 @@ docs does?
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
-    Fill in your answer here
+    Git is considering files as a whole project which consist of multiple files more or less related to each other, while other systems like Google Docs are single file-oriented (we don't have much interactive references between .doc files).
 
 How can you use the commands git log and git diff to view the history of files?
 
