@@ -40,7 +40,10 @@ How can you use the commands git log and git diff to view the history of files?
 How might using version control make you more confident to make changes that
 could break something?
 
-    Fill in your answer here
+    We can easly track the commits and "switch"(make checkout) betweeen them to find the commit in which the bug was made.
+    git log - check commits list and assume (or remember) with which commit there was no issue
+    git checkout <commit hash(ID)> - "switch" - make  assumed commit current (temporary) - to the assumed commit and check empirically whether bug occurrs or not
+    git diff <issued commit ID> <prevoius commit ID> 
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
