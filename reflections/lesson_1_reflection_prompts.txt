@@ -47,4 +47,9 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+    I want to use Git to learn the git and use it in future work and for learning process for programming etc.
+
+    
+!!!!!!!!!!!!!!!!!!!GIT ISSUES!!!!!!!!!!!!!!!!!!!!!
+http://stackoverflow.com/questions/7704480/why-does-git-commit-not-save-my-changes
+http://stackoverflow.com/questions/10721624/github-changes-not-staged-for-commit
