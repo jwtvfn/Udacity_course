@@ -18,4 +18,10 @@
 
 8. Cherry picking jak to sie wlasciwie robi i z czym to sie je
 
-9. 
+9. git diff3? i jaki jest domyslny?
+
+10. Git confict
+
+11. Ikonki na folderach i plikach swiadczacych o statusie w pracy sa w domu nie
+
+12. 
